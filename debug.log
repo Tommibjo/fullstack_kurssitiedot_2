@@ -1,0 +1,6 @@
+[0518/120624.188:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Tommi\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Käyttö estetty. (0x5)
+[0518/120624.190:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Putki on lopetettu. (0x6D)
+[0518/120624.191:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Tommi\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Käyttö estetty. (0x5)
+[0601/211143.509:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Tommi\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Käyttö estetty. (0x5)
+[0601/211143.511:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Putki on lopetettu. (0x6D)
+[0601/211143.512:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Tommi\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Käyttö estetty. (0x5)
